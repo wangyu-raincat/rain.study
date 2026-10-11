@@ -6,7 +6,7 @@
 
 | 专区 | 内容 | 当前进度 |
 | --- | --- | --- |
-| [前端开发](notes/frontend/README.md) | HTML、CSS，后续扩展 JavaScript | HTML 基础笔记已整理 |
+| [前端开发](notes/frontend/README.md) | HTML、CSS，后续扩展 JavaScript | HTML 基础与 CSS 入门已整理 |
 | [算法与数据结构](notes/algorithms/README.md) | 算法知识、数据结构、题解 | 已建立专区，待添加笔记 |
 
 **直接阅读 → [HTML / CSS 学习笔记](notes/frontend/html-css.md)**
